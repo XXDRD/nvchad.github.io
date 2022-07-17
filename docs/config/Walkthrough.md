@@ -20,7 +20,6 @@ NvChad comes with the following file / folder structure. [An up-to-date & full t
 │   │
 │   ├── plugins
 │   │    ├── init.lua
-│   │    ├── packerInit.lua
 │   │    └── configs
 │   │        ├── bufferline.lua
 │   │        ├── others.lua
